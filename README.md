@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Salam, mən [Adın]! 
 
-<!--
-**RoyaEfendiyeva/RoyaEfendiyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-AI%20Engineer-blue?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Deep%20Learning-orange?style=for-the-badge" alt="Focus">
+</p>
 
-Here are some ideas to get you started:
+### 🚀 Haqqımda
+Data Analitika keçmişli bir **AI Engineer** olaraq, datadan məna çıxarmağı və həmin mənaları ağıllı sistemlərə çevirməyi sevirəm. Hazırda əsas fokusum Machine Learning və AI arxitekturalarının qurulması və optimallaşdırılmasıdır.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Texniki Bacarıqlar
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Dillər & Data</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <strong>AI & Frameworks</strong><br/><br/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Sahələr</strong><br/><br/>
+      <code>NLP</code> <code>Computer Vision</code><br/>
+      <code>Deep Learning</code> <code>Predictive Modeling</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📂 Seçilmiş Layihələr
+
+* **[Customer Churn Prediction](link)** – Müştəri itkisini öncədən proqnozlaşdıran ML modeli.
+* **[Sales Analysis Dashboard](link)** – Biznes qərarları üçün interaktiv data vizuallaşdırma.
+* **[Image Classification Model](link)** – CNN arxitekturası ilə təsvirlərin tanınması.
+* **[NLP Sentiment Analysis](link)** – Mətnlərin emosional analizini aparan model.
+
+---
+
+### 📊 GitHub Statistikası
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[GITHUB-USERNAME-BURA-YAZ]&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB-USERNAME-BURA-YAZ]&layout=compact&theme=visual_studio_dark" />
+</p>
+
+---
+
+### 📫 Əlaqə
+<p align="left">
+<a href="mailto:[email-adresin]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="[LinkedIn-Linkin]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
